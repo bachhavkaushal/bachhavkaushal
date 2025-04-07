@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Kaushal Bachhav 
-- 👀 I’m interested in ...Data Analyst and Data Scientist.
-- 🌱 I’m currently learning ..AI Tool ,Chat GPT,Prompt Enggnering ,AI model Building, AI real world.
+- 👀 I’m interested in ...Big data Enginner.
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...Data Science & AI Tool . Microsoft 365, power Bi,tableau.
-- 📫 How to reach me ...kaushalbachhav0@gamil.com /https://www.linkedin.com/in/kaushal-bachhav-033596267/
+- 📫 How to reach me ...bachhav.kk@gamil.com /https://www.linkedin.com/in/kaushal-bachhav-a5771235a
 - 😄 Pronouns: ...kaushal 
 - ⚡ Fun fact: ... Game,playing,Exercise.
 
 <!---
-bachhavkaushal/bachhavkaushal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+bachhav.kk  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->   Proficient in data analysis and machine learning with a focus on data visualization tools like tableau and Power Bi.  
 Eager to apply academic knowledge to real-world projects, particularly interested in deep learning concepts.
